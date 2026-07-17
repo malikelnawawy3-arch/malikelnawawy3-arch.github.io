@@ -276,7 +276,10 @@ async function loadLiveEvents(date) {
   const all = results.flatMap((r) => (r.status === "fulfilled" ? r.value : []));
   const seen = new Set();
   return all.filter((e) => {
-    const key = (e.name || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+    const key = (e.name || "").toLowerCase()
+      .replace(/\(.*?\)/g, " ")      // drop parentheticals like (18+)
+      .replace(/&/g, " and ")
+      .replace(/[^a-z0-9]+/g, " ").trim();
     if (!key || seen.has(key)) return false;
     seen.add(key);
     return true;

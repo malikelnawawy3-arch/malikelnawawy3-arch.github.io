@@ -244,7 +244,11 @@ def main():
 
     seen, unique = set(), []
     for r in rows:
-        key = (re.sub(r"[^a-z0-9]+", " ", r["name"].lower()).strip(), r["date"])
+        norm = r["name"].lower()
+        norm = re.sub(r"\(.*?\)", " ", norm)          # drop parentheticals like (18+)
+        norm = norm.replace("&", " and ")
+        norm = re.sub(r"[^a-z0-9]+", " ", norm).strip()
+        key = (norm, r["date"])
         if not r["date"] or not r["name"] or key in seen:
             continue
         seen.add(key)

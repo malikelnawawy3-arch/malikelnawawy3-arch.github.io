@@ -30,16 +30,6 @@
   "url": "https://seatgeek.com/billy-bob-thornton-tickets/fort-worth-texas-billy-bob-s-texas-2026-07-17-10-pm/concert/18143756"
  },
  {
-  "name": "Billy Bob Thornton and The Boxmasters (18 and Over)",
-  "category": "music",
-  "area": "Billy Bob's, Fort Worth",
-  "date": "2026-07-17",
-  "time": "10:00 PM",
-  "cost": null,
-  "description": "Alternative event via Ticketmaster.",
-  "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-gZE"
- },
- {
   "name": "Billy Sorrells",
   "category": "arts",
   "area": "Arlington Improv, Arlington",
@@ -448,16 +438,6 @@
   "cost": null,
   "description": "concert event via SeatGeek.",
   "url": "https://seatgeek.com/los-lonely-boys-tickets/fort-worth-texas-billy-bob-s-texas-2026-07-18-10-pm/concert/18286383"
- },
- {
-  "name": "Los Lonely Boys (18 and Over)",
-  "category": "music",
-  "area": "Billy Bob's, Fort Worth",
-  "date": "2026-07-18",
-  "time": "10:00 PM",
-  "cost": null,
-  "description": "World event via Ticketmaster.",
-  "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4_6"
  },
  {
   "name": "Mesquite Championship Rodeo",
@@ -1180,16 +1160,6 @@
   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pdpp"
  },
  {
-  "name": "Hostage Situation (18+)",
-  "category": "music",
-  "area": "SILO - Dallas, Dallas",
-  "date": "2026-07-23",
-  "time": "9:00 PM",
-  "cost": null,
-  "description": "concert event via SeatGeek.",
-  "url": "https://seatgeek.com/hostage-situation-tickets/dallas-texas-silo-dallas-2026-07-23-9-pm/concert/18241155"
- },
- {
   "name": "Jerry Wayne Longmire",
   "category": "arts",
   "area": "Hyena's Comedy Night Club - Fort Worth, Fort Worth",
@@ -1400,16 +1370,6 @@
   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-U16"
  },
  {
-  "name": "Creed Fisher (18+)",
-  "category": "music",
-  "area": "Billy Bob's Texas, Fort Worth",
-  "date": "2026-07-24",
-  "time": "10:00 PM",
-  "cost": null,
-  "description": "concert event via SeatGeek.",
-  "url": "https://seatgeek.com/creed-fisher-tickets/fort-worth-texas-billy-bob-s-texas-2026-07-24-10-pm/concert/18156219"
- },
- {
   "name": "Drunk Shakespeare: Romeo & Juliet (21+ Event)",
   "category": "arts",
   "area": "Deep Ellum Art Co, Dallas",
@@ -1508,16 +1468,6 @@
   "cost": null,
   "description": "Dance/Electronic event via Ticketmaster.",
   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xA4v"
- },
- {
-  "name": "Mita Gami (18+)",
-  "category": "music",
-  "area": "SILO - Dallas, Dallas",
-  "date": "2026-07-24",
-  "time": "9:00 PM",
-  "cost": null,
-  "description": "concert event via SeatGeek.",
-  "url": "https://seatgeek.com/mita-gami-tickets/dallas-texas-silo-dallas-2026-07-24-9-pm/concert/18166927"
  },
  {
   "name": "Motionless In White with Lorna Shore, Fit For A King and Static Dress",
@@ -1750,16 +1700,6 @@
   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-bG3"
  },
  {
-  "name": "Josh Weathers (18+)",
-  "category": "music",
-  "area": "Billy Bob's Texas, Fort Worth",
-  "date": "2026-07-25",
-  "time": "10:00 PM",
-  "cost": null,
-  "description": "concert event via SeatGeek.",
-  "url": "https://seatgeek.com/josh-weathers-tickets/fort-worth-texas-billy-bob-s-texas-2026-07-25-10-pm/concert/18106270"
- },
- {
   "name": "Juelz (16 and Under with Parent or Legal Guardian)",
   "category": "festival",
   "area": "The Studio at the Bomb Factory, Dallas",
@@ -1980,16 +1920,6 @@
   "url": "https://seatgeek.com/walker-royce-tickets/dallas-texas-silo-dallas-2026-07-25-9-pm/concert/17879397"
  },
  {
-  "name": "Walker and Royce (18 and Over)",
-  "category": "music",
-  "area": "SILO, Dallas",
-  "date": "2026-07-25",
-  "time": "9:00 PM",
-  "cost": null,
-  "description": "Other event via Ticketmaster.",
-  "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xA4e"
- },
- {
   "name": "Bruce Bruce",
   "category": "arts",
   "area": "Addison Improv, Addison",
@@ -2048,16 +1978,6 @@
   "cost": null,
   "description": "concert event via SeatGeek.",
   "url": "https://seatgeek.com/eli-fur-tickets/dallas-texas-silo-dallas-2026-07-26-5-pm/concert/18241157"
- },
- {
-  "name": "Eli and Fur (21 and Over)",
-  "category": "music",
-  "area": "SILO, Dallas",
-  "date": "2026-07-26",
-  "time": "5:00 PM",
-  "cost": null,
-  "description": "Other event via Ticketmaster.",
-  "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x9eo"
  },
  {
   "name": "Hamilton (Touring)",
@@ -2480,16 +2400,6 @@
   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Obe"
  },
  {
-  "name": "Blastoyz (18+)",
-  "category": "music",
-  "area": "SILO - Dallas, Dallas",
-  "date": "2026-07-30",
-  "time": "9:00 PM",
-  "cost": null,
-  "description": "concert event via SeatGeek.",
-  "url": "https://seatgeek.com/blastoyz-tickets/dallas-texas-silo-dallas-2026-07-30-9-pm/concert/18241159"
- },
- {
   "name": "Circles, Second Base, Eileen",
   "category": "music",
   "area": "Three Links Deep Ellum, Dallas",
@@ -2730,16 +2640,6 @@
   "url": "https://seatgeek.com/does-tickets/dallas-texas-the-studio-at-the-bomb-factory-2026-07-31-8-pm/concert/18224714"
  },
  {
-  "name": "DOES (16 and Under with Parent or Legal Guardian)",
-  "category": "festival",
-  "area": "The Studio at the Bomb Factory, Dallas",
-  "date": "2026-07-31",
-  "time": "8:00 PM",
-  "cost": null,
-  "description": "Live event via Ticketmaster.",
-  "url": "https://www.ticketmaster.com/event/Z7r9jZ1A709GU"
- },
- {
   "name": "Diggy Graves - The No Vacancy Tour",
   "category": "music",
   "area": "The Echo Lounge & Music Hall, Dallas",
@@ -2930,16 +2830,6 @@
   "url": "https://seatgeek.com/tyler-halverson-tickets/fort-worth-texas-billy-bob-s-texas-2026-07-31-10-pm/concert/18335566"
  },
  {
-  "name": "Tyler Halverson (18 and Over)",
-  "category": "festival",
-  "area": "Billy Bob's, Fort Worth",
-  "date": "2026-07-31",
-  "time": "10:00 PM",
-  "cost": null,
-  "description": "Live event via Ticketmaster.",
-  "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xF1v"
- },
- {
   "name": "Viva! El Paso",
   "category": "arts",
   "area": "McKelligon Canyon Theatre, El Paso",
@@ -3068,16 +2958,6 @@
   "cost": null,
   "description": "concert event via SeatGeek.",
   "url": "https://seatgeek.com/jo-dee-messina-tickets/fort-worth-texas-billy-bob-s-texas-2026-08-01-10-pm/concert/18250090"
- },
- {
-  "name": "Jo Dee Messina (18+ Event)",
-  "category": "music",
-  "area": "Billy Bob's, Fort Worth",
-  "date": "2026-08-01",
-  "time": "10:00 PM",
-  "cost": null,
-  "description": "Country event via Ticketmaster.",
-  "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70bop"
  },
  {
   "name": "John Berry w/ Maddox Ross",
@@ -3238,16 +3118,6 @@
   "cost": null,
   "description": "Other event via Ticketmaster.",
   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Ffy"
- },
- {
-  "name": "Willis",
-  "category": "music",
-  "area": "The Studio at the Bomb Factory, Dallas",
-  "date": "2026-08-01",
-  "time": "8:00 PM",
-  "cost": null,
-  "description": "concert event via SeatGeek.",
-  "url": "https://seatgeek.com/willis-1-tickets/dallas-texas-the-studio-at-the-bomb-factory-2026-08-01-8-pm/concert/18215010"
  },
  {
   "name": "AT&T Stadium VIP Guided Tour",
@@ -3868,16 +3738,6 @@
   "cost": null,
   "description": "concert event via SeatGeek.",
   "url": "https://seatgeek.com/chayce-beckham-tickets/fort-worth-texas-billy-bob-s-texas-2026-08-06-9-pm/concert/18335553"
- },
- {
-  "name": "Chayce Beckham (18+ Event)",
-  "category": "music",
-  "area": "Billy Bob's, Fort Worth",
-  "date": "2026-08-06",
-  "time": "9:00 PM",
-  "cost": null,
-  "description": "Other event via Ticketmaster.",
-  "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70_k7"
  },
  {
   "name": "Cipha Sounds",
