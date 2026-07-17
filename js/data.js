@@ -11,8 +11,8 @@ const CONFIG = {
 
   /* Live event sources. Fill these in AFTER you deploy (see README).
      Leave blank to run on curated + JSON data only — the site still works. */
-  ticketmasterApiKey: "",        // https://developer.ticketmaster.com (free)
-  seatgeekClientId: "",          // https://seatgeek.com/account/develop (free)
+  ticketmasterApiKey: "1TMfuA687o9YVX8gTnBmVIvzWZ6s1VGh", // https://developer.ticketmaster.com
+  seatgeekClientId: "NTk2OTQ4OTV8MTc4NDMxODM2OC4xMjA3NDc2", // https://seatgeek.com/account/develop
   predicthqToken: "",            // optional: https://www.predicthq.com (paid)
   googleSheetCsvUrl: "",         // optional: a "Publish to web -> CSV" URL
   eventsJsonUrl: "events.json",  // simple file you can hand-edit; ships with the site
